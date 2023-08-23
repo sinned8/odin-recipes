@@ -1,0 +1,23 @@
+.indextitle{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    text-shadow: 1px 1px 2px rgb(245, 228, 0);
+}
+.li{
+    color: gold
+}
+
+.lasagnah, .pizzah{
+    text-align: center;
+    text-shadow: 1px 1px 2px rgb(0, 0, 0)
+}
+.limg, .pimg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.desc, .pdesc{
+    text-align: center;
+    background-color: black;
+    color: gold;
+}
